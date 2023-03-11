@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel=stylesheet href="/css/main.css">
+<title>dotfiles with ansible</title>
+</head>
+<header>
+    <span><a href="/">home</a></span>
+</header>
+<body>
+    <h1>dotfiles with ansible</h1>
+    <h4>2021/05/23</h4>
+    <p>I&rsquo;ve used <a href="https://www.gnu.org/software/stow/">stow</a> for a while to manage my <code>dotfiles</code> but recently have moved to <code>ansible</code>.</p>
+<p>One problem I had with <code>stow</code> was how to handle <em>work</em> and <em>personal</em> dotfiles. Consider <code>gitconfig</code> where <code>user.email</code> would be my personal email address for my <em>personal</em> machines and my work email address for my <em>work</em> machine.  Using ansible templates to handle this using a single <code>gitconfig</code> <em>template</em> is the solution that I&rsquo;m finding is working nicely for me right now.</p>
+
+<footer>
+<a href="mailto:rene@compounddata.com">contact</a>
+</footer>
+</body>
+</html>
