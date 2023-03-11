@@ -1,0 +1,5 @@
+baseURL = "https://compounddata.com/"
+languageCode = "en-us"
+title = "compounddata.com"
+theme = "ht"
+themeDir = "./themes/"
