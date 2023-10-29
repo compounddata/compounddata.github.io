@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>figuring it out as i go</title>
+    <title>compounddata.com</title>
     <link>https://compounddata.com/</link>
-    <description>Recent content on figuring it out as i go</description>
+    <description>Recent content on compounddata.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://compounddata.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,24 +17,13 @@ One problem I had with stow was how to handle work and personal dotfiles. Consid
     </item>
     
     <item>
-      <title>Using the terraform libvirt provider to provision an Ubuntu 20.04 guest</title>
-      <link>https://compounddata.com/terraform-libvirt-ubuntu/</link>
-      <pubDate>Mon, 28 Dec 2020 11:04:50 +1100</pubDate>
-      
-      <guid>https://compounddata.com/terraform-libvirt-ubuntu/</guid>
-      <description>Introduction This HOWTO describes how to use the terraform libvirt provider to provision an Ubuntu 20.04 guest.
-Prerequisites  go &amp;gt;= 1.13 terraform &amp;gt;= 0.13 a system running libvirtd  Install terraform-provider-libvirt Download the source for the terraform libvirt provider and build the plugin:
-$ git clone git@github.com:dmacvicar/terraform-provider-libvirt.git $ cd terraform-provider-libvirt $ git checkout v0.6.3 $ make build This will produce a terraform-provider-libvirt file which needs to be moved into a directory under ~/.</description>
-    </item>
-    
-    <item>
       <title>Hows your ~/junkcode</title>
       <link>https://compounddata.com/junkcode/</link>
       <pubDate>Thu, 29 Oct 2009 00:00:00 +1000</pubDate>
       
       <guid>https://compounddata.com/junkcode/</guid>
       <description>At LCA 2004 Andrew Tridgell gave an excellent presentation on his junkcode directory. A few snippets from the presentation:
- Most programmers write bits of junkcode at one time or another. It&amp;rsquo;s an important part of learning to be a better programmer.
+Most programmers write bits of junkcode at one time or another. It&amp;rsquo;s an important part of learning to be a better programmer.
 In this talk I hope to convince you to value your junkcode, and to keep it rather than deleting it when it has served its initial purpose. Today&amp;rsquo;s junk can help you build tomorrows killer app.</description>
     </item>
     
